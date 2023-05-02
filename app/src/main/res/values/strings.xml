@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">project Khata</string>
+    <string name="login"> LOG IN </string>
+    <string name="register"> REGISTER </string>
+    <string name="name"> Name </string>
+    <string name="email"> Email </string>
+    <string name="password"> Password </string>
+
+
+    <string name="u_register">
+        <u>REGISTER</u>
+    </string>
 </resources>
