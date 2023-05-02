@@ -10,4 +10,8 @@
     <string name="u_register">
         <u>REGISTER</u>
     </string>
+
+    <string name="u_signin">
+        <u>SIGN IN</u>
+    </string>
 </resources>
